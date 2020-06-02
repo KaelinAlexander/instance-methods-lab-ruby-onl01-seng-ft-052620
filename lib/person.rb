@@ -3,6 +3,8 @@ end
 
 def Person
   
-  def 
+  def talk
+    puts "Hello World!"
+  end
   
 end
